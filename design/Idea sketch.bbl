@@ -1,0 +1,40 @@
+\begin{thebibliography}{7}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Apicella et~al.(2017)Apicella, Demiral, and
+  Mollerstrom}]{Apicella2017}
+Apicella, Coren~L., Elif~E. Demiral, and Johanna Mollerstrom (2017).
+  \enquote{No gender difference in willingness to compete when competing
+  against self,} \emph{American Economic Review:}.
+
+\bibitem[{Dohmen and Falk(2011)}]{Dohmen2011a}
+Dohmen, Thomas and Armin Falk (2011). \enquote{Performance pay and
+  multidimensional sorting: Productivity, preferences, and gender,}
+  \emph{American Economics Review}, 101(2): 556--590.
+
+\bibitem[{Gneezy et~al.(2003)Gneezy, Niederle, and Rustichini}]{Gneezy2003}
+Gneezy, Uri, Muriel Niederle, and Aldo Rustichini (2003). \enquote{Performance
+  in competive environments: Gender differences,} \emph{Quarterly Journal of
+  Economics}, 118(3): 1049--1074.
+
+\bibitem[{Mellizo et~al.(2017)Mellizo, Carpenter, and Matthews}]{Mellizo2017}
+Mellizo, Philip, Jefferey Carpenter, and Peter~Hans Matthews (2017).
+  \enquote{Ceding control: An experimental analysis of participatory
+  management,} \emph{IZA Discussion Paper}, (10576).
+
+\bibitem[{Murad et~al.(2016)Murad, Sefton, and Starmer}]{Murad2016}
+Murad, Zahra, Martin Sefton, and Chris Starmer (2016). \enquote{How do risk
+  attitudes affect measured confidence?} \emph{Journal of Risk \& Uncertainty},
+  52(1): 21--46.
+
+\bibitem[{Niederle and Vesterlund(2007)}]{Niederle2007}
+Niederle, Muriel and Lise Vesterlund (2007). \enquote{Do women shy away from
+  competition? {D}o men compete too much?} \emph{Quarterly Journal of
+  Economics}, 122(3): 1067--1101.
+
+\bibitem[{de~Quidt(2017)}]{Quidt2017}
+de~Quidt, Janathan (2017). \enquote{Your loss is my gain: A recruitment
+  experiment with framed incentives,} \emph{CESIFO WORKING PAPER}, (6326).
+
+\end{thebibliography}
